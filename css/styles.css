@@ -1,0 +1,57 @@
+/********** TAG SELECTORS ************/
+body {
+  background-color:#C1F4C5
+}
+
+hr {
+  border-style:none;
+  border-width:5px;
+  border-color: grey;
+  border-top-style: dotted;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+  color: #45243d;
+}
+
+h3 {
+  color: #3398FF;
+}
+
+
+img {
+  max-width: 100%;
+  height: 170;
+}
+
+
+
+td {
+  text-align: left;
+}
+
+th {
+  text-align: left;
+}
+
+
+
+/******** CLASS SELECTORS *****************/
+.myphoto{
+  max-width: 110%
+}
+
+.circular{
+  border-radius: 100%
+}
+
+.longtext{
+  width: 85%
+}
+
+/************** ID SELECTORS *****************/
+#heading {
+  color: blue;
+}
